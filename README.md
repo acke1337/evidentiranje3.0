@@ -1,5 +1,5 @@
 # EVIDENTIRANJE 3.0
-Program za evidentiranje uplata računa
+Program za evidentiranje uplata računa.
 Jednostavan za upotrebu.
 Svi podatci se čuvaju na lokalnom računaru.
 
