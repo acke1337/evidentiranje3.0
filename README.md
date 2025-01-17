@@ -42,6 +42,17 @@ Jedini načini su:
 - Kontaktiranje administratora
 - Postavljanje uloge sa "Operater" na "Operater+"
 
+## Ažuriranje programa
+Program automatski traži nove verizje i sam ih preuzima i instalira.
+
+## Ostale mogućnosti
+Postoji mogućnost kreiranja programa po Vašoj želji po jako niskim cenama!
+Kontakt:
+- Instagram: @ackehb
+- Mail: borland.notz@gmail.com
+
+## Izvorni kod
+Program je trenutno closed-source ali ne znači da će tako i ostati. Trenutno je moguća kupovina izvornog koda slanjem poruke na neki od kontakata ostavljenih u prethodnoj sekciji.
 
 # PREUZIMANJE
 Program će biti dostupan za preuzimanje 21.01.2025.
